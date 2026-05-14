@@ -1,0 +1,8 @@
+.container { font-family: Arial, sans-serif; padding: 20px; }
+.card { border: 1px solid #ddd; padding: 15px; border-radius: 8px; margin-bottom: 10px; list-style: none; }
+form { display: flex; flex-direction: column; gap: 10px; margin-bottom: 30px; }
+
+/* Responsividade: Mobile-First */
+@media (min-width: 600px) {
+  ul { display: grid; grid-template-columns: 1fr 1fr; gap: 15px; }
+}
