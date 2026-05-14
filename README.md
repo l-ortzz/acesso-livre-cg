@@ -1,16 +1,24 @@
-# React + Vite
+# ACESSO LIVRE CG: Guia Colaborativo de Acessibilidade Comercial
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📝 Descrição do Projeto
+O **Acesso Livre CG** é uma aplicação web dinâmica desenvolvida como parte do Projeto Integrador II (UFMS Digital). O objetivo é mapear e compartilhar informações sobre a acessibilidade de estabelecimentos comerciais em Campo Grande - MS, auxiliando pessoas com deficiência (PcD) e mobilidade reduzida a identificar locais com infraestrutura adequada (rampas, banheiros adaptados, etc.).
 
-Currently, two official plugins are available:
+Este projeto foca na aplicação prática de **HTML5 semântico**, **CSS3 responsivo** e no framework **React** para criar uma interface intuitiva e acessível.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Tecnologias Utilizadas
+- **React (Vite):** Framework para construção da interface dinâmica e componentes.
+- **HTML5:** Estruturação semântica para acessibilidade e SEO.
+- **CSS3:** Estilização com Flexbox e Media Queries (Mobile-First).
+- **Git/GitHub:** Controle de versão e documentação.
 
-## React Compiler
+## 📱 Funcionalidades
+- Listagem dinâmica de estabelecimentos com indicadores de acessibilidade.
+- Formulário para cadastro colaborativo de novos locais.
+- Layout totalmente responsivo, adaptado para dispositivos móveis.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Como executar o projeto
+Para rodar este projeto localmente, siga os passos abaixo:
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clone o repositório:
+   ```bash
+   git clone [https://github.com/l-ortzz/acesso-livre-cg.git](https://github.com/l-ortzz/acesso-livre-cg.git)
